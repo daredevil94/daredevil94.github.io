@@ -12,7 +12,7 @@ To reveal the secrets of the connections in the network, we use the Louvain algo
 So let us see. Will every main character have their own community. There are characters that have a movie or a movie series named after them. These are: Ant-Man, Black_Panther, Black_Widow, Captain_America, Captain_Marvel, Doctor_Strange, Iron_Man, Spider-Man, Hulk and Thor. That is 10 main characters. Besides this we have Eternals and Guardians Of The Galaxy that might make up the 11’th and 12’th community. 
 Lets see the communities of the main characters to test out this theory: 
 
-![image description]({{< baseurl >}}/Picture_1_1.png)
+![image description]({{< baseurl >}}/Picture_1_1_same.png)
 
 
 Turns out, this theory does not hold. Black Panther, Black Widow and Captain America share a community, which negates the theory. However 7/10 main characters have their own community.
@@ -35,7 +35,7 @@ And it looks very divided which is exactly what we expect
 plot. From there, we calculated a happiness score per movie. These scores vary from 3.4 to 4.6. 
 
 We find out that the happiest movies per score are:
- 
+
 *	Ant-Man and the Wasp (4.60)
 *	Captain America: The First Avenger (4.33) 
 *	The Incredible Hulk (4.30)

@@ -1,5 +1,5 @@
 baseURL = 'https://daredevil94.github.io/'
 languageCode = 'en-us'
-title = 'Marvel's Graph'
+title = "Marvel's Graph"
 theme = "ananke"
 publishDir= "docs"

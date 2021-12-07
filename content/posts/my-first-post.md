@@ -4,6 +4,12 @@ date: 2021-12-07T17:21:31+01:00
 draft: true
 ---
 
+<div class="button_cont">
+   <a class="example_d" href="https://nbviewer.org/github/daredevil94/SGI-Explainer-Notebook/blob/main/notebook.ipynb">
+    {{ i18n "CTAbutton"}}
+   </a>
+</div>
+
 Ever wondered which Marvel character is happiest? Or saddest? Well wait no longer. we found out!
 
 We downloaded the wiki pages of every character and every movie that has been released from the marvel fandom wikipedia. Every hyperlink from one character page to another is deemed as a connection between those two. The text describing the character on the fandom page determines their happiness and sadness. Similarly the movie plots from a movie's fandom page determines the happiness of that movie. 

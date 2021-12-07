@@ -4,7 +4,7 @@ date: 2021-12-07T17:21:31+01:00
 draft: true
 ---
 
-![Link to notebook]({{ $url := urls.Parse "https://nbviewer.org/github/daredevil94/SGI-Explainer-Notebook/blob/main/notebook.ipynb" }})
+https://nbviewer.org/github/daredevil94/SGI-Explainer-Notebook/blob/main/notebook.ipynb
 
 Ever wondered which Marvel character is happiest? Or saddest? Well wait no longer. we found out!
 

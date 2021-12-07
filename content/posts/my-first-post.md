@@ -4,7 +4,19 @@ date: 2021-12-07T17:21:31+01:00
 draft: true
 ---
 
+Link to explainer notebook:
+
 https://nbviewer.org/github/daredevil94/SGI-Explainer-Notebook/blob/main/notebook.ipynb
+
+Link to datasets:
+
+Characters dataset
+
+https://github.com/daredevil94/SGI-Explainer-Notebook/blob/main/characters.zip
+
+Movies dataset 
+
+https://github.com/daredevil94/SGI-Explainer-Notebook/blob/main/movie_plots.zip
 
 Ever wondered which Marvel character is happiest? Or saddest? Well wait no longer. we found out!
 

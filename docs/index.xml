@@ -13,7 +13,8 @@
       <pubDate>Tue, 07 Dec 2021 17:21:31 +0100</pubDate>
       
       <guid>https://daredevil94.github.io/posts/my-first-post/</guid>
-      <description></description>
+      <description>So this marvel community? How is it connected? That can be hard to tell from the network graph. Can it be split up to communities that resemble every movie/movie series? Maybe every “main” character will be the core of his/hers own community?
+To reveal the secrets of the connections in the network, we use the Louvain algorithm to detect communities within the network. It detects 12 communities. So let us see.</description>
     </item>
     
   </channel>

@@ -106,7 +106,7 @@ Now that we are more precise about the sentiments of characters, we can look at 
 
 ![image description]({{< baseurl >}}/Picture_6.png)
 
-WIth:
+With:
 
 *	Community 0: SHIELD and Avengers
 *	Community 1: Ant-Man
@@ -117,6 +117,9 @@ WIth:
 *	Community 6: Doctor Strange
 *	Community 7: Iron Man
 *	Community 8: Captain America
-*	Community : Black Panther
+*	Community 9: Black Panther
 *	Community 10: Captain Marvel
 
+The first thing we can see is that the two curves seem related, even though they are not based on the same words. This means that some communities are more intense in their feeling than others. For example, the Guardians of the Galaxy and Shang Xi communities are more intense than the Ant-Man community (which movies are lighter).
+
+Another interesting thing to notice is that there is only one community that has a happiness score higher than his war score, and that's the Spider-Man community ! It makes sens as these movies feature a lot of teenagers characters.

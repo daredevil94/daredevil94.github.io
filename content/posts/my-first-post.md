@@ -35,14 +35,14 @@ And it looks very divided which is exactly what we expect
 plot. From there, we calculated a happiness score per movie. These scores vary from 3.4 to 4.6. 
 
 We find out that the happiest movies per score are: 
-●	Ant-Man and the Wasp (4.60)
-●	Captain America: The First Avenger (4.33) 
-●	The Incredible Hulk (4.30)
+*	Ant-Man and the Wasp (4.60)
+*	Captain America: The First Avenger (4.33) 
+*	The Incredible Hulk (4.30)
 
 The saddest movies are:
-●	The Avengers (3.30)
-●	Captain Marvel (3.36)
-●	Guardians of the Galaxy (3.44)
+*	The Avengers (3.30)
+*	Captain Marvel (3.36)
+*	Guardians of the Galaxy (3.44)
 
 We can't really conclude something about the sentiment analysis of movies. This is not surprising considering that all marvel movies are quite similar in their plots. Each movie has their part of fighting, heroes and villains, and some jokes. So the sentiment analysis on these movies doesn’t reveal something really relevant.
 
